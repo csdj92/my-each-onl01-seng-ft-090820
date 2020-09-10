@@ -6,3 +6,4 @@ my_each(array) do |i|
   puts i
   # code here
 end
+end
