@@ -7,3 +7,4 @@ my_each(array) do |i|
   # code here
   end
 end
+end
